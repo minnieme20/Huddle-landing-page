@@ -1,0 +1,1 @@
+this is my first solution of the Huddle landing page, i used HTML and CSS as my languages.
